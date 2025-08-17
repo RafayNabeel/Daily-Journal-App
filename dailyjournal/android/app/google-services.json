@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867986555819",
+    "project_id": "rafay-dailyjo",
+    "storage_bucket": "rafay-dailyjo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867986555819:android:a11570dfee613cc68d88ee",
+        "android_client_info": {
+          "package_name": "com.example.dailyjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipgCU_X-PhrOb8LEx5F5d9zMl41CwehY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
